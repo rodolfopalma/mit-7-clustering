@@ -1,17 +1,17 @@
 {
     "embeddings": [
       {
-        "tensorName": "word2vec",
+        "tensorName": "MIT-7",
         "tensorShape": [
-          19459,
-          100
+          558,
+          4096
         ],
         "tensorPath": "https://raw.githubusercontent.com/rpalmaotero/mit-7-clustering/master/vectors.tsv",
         "metadataPath": "https://raw.githubusercontent.com/rpalmaotero/mit-7-clustering/master/vectors_metadata.tsv",
         "sprite": {
           "imagePath": "https://raw.githubusercontent.com/rpalmaotero/mit-7-clustering/master/sprite.jpg",
-          "singleImageDim": 100
-          }
+          "singleImageDim": [100, 100]
+        }
       }
     ]
   }
