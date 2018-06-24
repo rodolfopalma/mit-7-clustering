@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "MIT-7",
+        "tensorShape": [
+          558,
+          4096
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/rpalmaotero/mit-7-clustering/master/vectors.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/rpalmaotero/mit-7-clustering/master/vectors_metadata.tsv"
+      }
+    ]
+  }
